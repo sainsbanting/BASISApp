@@ -1,7 +1,7 @@
 {
   "name": "BASISApp",
   "short_name": "BASISApp",
-  "description": "Sistem Task Tracker Pendidikan",
+  "description": "BASISApp – Sekolah Menengah Sains Banting",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0f172a",
