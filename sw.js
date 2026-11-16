@@ -1,10 +1,12 @@
-const CACHE_NAME = 'smarttracker-v1';
+const CACHE_NAME = 'smarttracker-v2';
 const ASSETS = [
   './',
   './index.html',
   './favicon.png',
   './icon-192.png',
   './icon-512.png',
+  './icon-maskable-512.png',
+  './apple-touch-icon.png',
   './manifest.json'
 ];
 
