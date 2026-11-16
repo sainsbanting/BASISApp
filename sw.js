@@ -1,4 +1,4 @@
-const CACHE_NAME = 'smarttracker-v2';
+const CACHE_NAME = 'basisapp-v3';
 const ASSETS = [
   './',
   './index.html',

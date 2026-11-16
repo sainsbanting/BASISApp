@@ -1,6 +1,6 @@
 {
-  "name": "SmartTracker",
-  "short_name": "SmartTracker",
+  "name": "BASISApp",
+  "short_name": "BASISApp",
   "description": "Sistem Task Tracker Pendidikan",
   "start_url": ".",
   "display": "standalone",
